@@ -1,3 +1,8 @@
 {
-  "startCommand": "python bot.py"
+  "build": {
+    "env": {
+      "BOT_TOKEN": "your_bot_token_here"
+    }
+  },
+  "start": "python bot.py"
 }
