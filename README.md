@@ -1,1 +1,2 @@
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?repository=https://github.com/sadasdasdokaokdsaopk/fly500x-bot)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/new)
+https://github.com/sadasdasdokaokdsaopk/fly500x-bot
